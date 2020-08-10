@@ -1,0 +1,26 @@
+:root {
+  /* variables */
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  max-width: 600px;
+  padding: 32px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+section,
+header {
+  margin-bottom: 40px;
+}
+
+section div {
+  margin-bottom: 20px;
+}
+
+/* Text */
+
+/* Dropdown */
+
+/* Footer */
