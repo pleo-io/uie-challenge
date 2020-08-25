@@ -12,7 +12,7 @@ One of the components in the solution is a dropdown selector. This component fea
 
 Abstract parts of the solution into individual components.<br />
 Write an elegant solution to handle theming.<br />
-Heigthen the overall quality of the components as you see fit.<br />
+Increase the overall quality of the components as you see fit.<br />
 Update the visual aspects of the UI in a meaningful way.<br />
 Add links to your favourite resources in the footer.<br />
 Think scalability and flexilibity into the frontend architecture.
